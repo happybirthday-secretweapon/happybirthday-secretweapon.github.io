@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.eyes {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50vh;
+}
+.text {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    text-align: right;
+    width: 20vh;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    width: 100vh;
+    height: 100vh; /* Adjust as needed */
+}
