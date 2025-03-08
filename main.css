@@ -19,6 +19,17 @@ body {
     font-family: 'Courier New', Courier, monospace;
 }
 
+.github-logo {
+    width: 5vh;
+
+
+}
+
+.sbox-logo {
+    width: 5vh;
+    margin-left: 1vh;
+}
+
 .links {
     display: flex;
     justify-content: center;
